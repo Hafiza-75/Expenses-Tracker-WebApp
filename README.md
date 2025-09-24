@@ -77,3 +77,16 @@ java -jar target/expenses-tracker.jar
 ```
 ### Access the App
 - Open your browser at: http://localhost:8080
+
+## Screenshots:
+<img width="1747" height="932" alt="1" src="https://github.com/user-attachments/assets/1d934a1e-4876-4f00-a800-5ab5795150c7" />
+
+<img width="1765" height="787" alt="3-3" src="https://github.com/user-attachments/assets/7746c99a-facc-4e26-8452-efa5cfab61ec" />
+
+<img width="1727" height="940" alt="4-4" src="https://github.com/user-attachments/assets/5a1ae2cd-01e2-4756-abb2-b021ecd52818" />
+<img width="1818" height="942" alt="5-5" src="https://github.com/user-attachments/assets/fca44ff2-0099-4616-808a-3627e93d925d" />
+<img width="1783" height="946" alt="6-6" src="https://github.com/user-attachments/assets/3afe69ec-4954-4803-887d-b738c035f1c8" />
+
+<img width="1800" height="925" alt="7" src="https://github.com/user-attachments/assets/a61f4780-9a8e-45be-8181-24bcbf41b5e2" />
+
+<img width="1750" height="926" alt="8" src="https://github.com/user-attachments/assets/c7ce194d-47d5-4b1e-a7e6-aee5450bb014" />
